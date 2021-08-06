@@ -30,11 +30,6 @@ const List<Map<String, String>> codes = [
     "dial_code": "+1268",
   },
   {
-    "name": "Ukraine",
-    "code": "UK",
-    "dial_code": "+380",
-  },
-  {
     "name": "Bahamas",
     "code": "BS",
     "dial_code": "+1242",
