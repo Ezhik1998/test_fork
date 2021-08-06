@@ -39,4 +39,14 @@ const List<Map<String, String>> codes = [
     "code": "BS",
     "dial_code": "+1242",
   },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "dial_code": "+57",
+  },
+  {
+    "name": "Komori",
+    "code": "KM",
+    "dial_code": "+269",
+  },
 ];
