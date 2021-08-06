@@ -13,5 +13,10 @@ const List<Map<String, String>> codes = [
     "name": "Shqipëria",
     "code": "AL",
     "dial_code": "+355",
+  },
+  {
+    "name": "Ukraine",
+    "code": "UK",
+    "dial_code": "+380",
   }
 ];
